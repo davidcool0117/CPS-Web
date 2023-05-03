@@ -1,4 +1,5 @@
 import React from "react";
+import "./css/navigation.css";
 
 export const Navigation = (props) => {
   return (
@@ -17,8 +18,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
+          <a className="navbar-brand page-scroll logo" href="#page-top">
+            <img src="img/header/logo.png" alt="" />
+            컨텐츠기획자협회
           </a>{" "}
         </div>
 
@@ -29,32 +31,32 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Features
+                컨텐츠기획자협회
               </a>
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+                프로그램
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                SPA프로젝트
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                회원사 소개
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                협회소식
               </a>
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Team
+                협회활동
               </a>
             </li>
             <li>
