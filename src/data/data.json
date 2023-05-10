@@ -4,7 +4,7 @@
     "paragraph": "컨텐츠 기획자 협회는 창의적인 아이디어와 전략적인 기획력을 갖춘 기획전문가들이 모인 곳입니다. 새로운 컨텐츠 제작과 기획 방법론을 공유하며, 다양한 분야에서의 활동을 통해 새로운 산업 발전을 선도합니다."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "콘텐츠기획자협회는 콘텐츠 분야의 기획을 위한 학술 및 콘텐츠 분야의 발전된 기획력과 창조적 기획력을 위하여 콘텐츠 분야의 산업을 국내 및 해외산업 진흥에 공헌하며, 모든 생명체에게 콘텐츠 제공을 통한 즐거움과 삶의 가치를 제공함에 목적을 둔다.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -68,33 +68,33 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "하이컨셉팅",
+      "text": "문화콘텐츠의 기본인 하이컨셉팅, 창의스토리텔링등의 상상을 현실로 기획단계를 수립할 수 있다."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "아이디어 구체화",
+      "text": "각 콘텐츠의 아이디어를 구체화 시킨다."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "기획안 작성",
+      "text": "아이디어의 조합을 구체화 시키는 내용으로 기획안을 작성할 수 있다."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "마케팅과의 조합",
+      "text": "기획안을 마케팅과의 조합으로 연결시킨다."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "저작권침해 여부 판단",
+      "text": "기획부터 마케팅 - 상업화에 저작권침해 여부 판단을 한다."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "트렌드클리닉",
+      "text": "트렌드클리닉을 통해 콘텐츠의 발전을 도모한다."
     }
   ],
   "Testimonials": [
@@ -132,29 +132,29 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "이경호",
+      "job": "컨텐츠기획자협회 협회장"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "이윤재",
+      "job": "이사"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "이희",
+      "job": "이사"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "이윤빈",
+      "job": "이사"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "26758, 765 논현로 ",
+    "phone": "010 4266 2445",
+    "email": "keyong@naver.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "미디어콘텐츠 분야 실무",
+      "text": "방송사, 영화사, 게임회사등 영상 (가상현실 및 홀로그램 포함)외"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "문화예술 콘텐츠분야별 실무 또는 기획 관련업종",
+      "text": "- 연예기획사 등"
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "출판, 인쇄 콘텐츠 실무 또는 기획 관련업종",
+      "text": "- 신문사, 잡지사, 출판사 등 문자위주 업무(사진, 일러스트, 캘리그래피등)"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "각 콘텐츠별 기획자, 제작자, 투자자 외",
+      "text": "각 콘텐츠별 기획자, 제작자, 투자자"
     }
   ]
 }

@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll logo" href="#page-top">
+          <a className="navbar-brand page-scroll logo" href="/">
             <img src="img/header/logo.png" alt="" />
             컨텐츠기획자협회
           </a>{" "}
@@ -30,38 +30,38 @@ export const Navigation = (props) => {
         >
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#features" className="page-scroll">
+              <a href="#about" className="page-scroll">
                 컨텐츠기획자협회
               </a>
             </li>
             <li>
-              <a href="#about" className="page-scroll">
-                프로그램
+              <a href="#features" className="page-scroll">
+                활동영역
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                SPA프로젝트
+                역할
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
+                협회활동
+              </a>
+            </li>
+            {/* <li>
+              <a href="#testimonials" className="page-scroll">
+                협회소식
+              </a>
+            </li> */}
+            <li>
+              <a href="#team" className="page-scroll">
                 회원사 소개
               </a>
             </li>
             <li>
-              <a href="#testimonials" className="page-scroll">
-                협회소식
-              </a>
-            </li>
-            <li>
-              <a href="#team" className="page-scroll">
-                협회활동
-              </a>
-            </li>
-            <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                제휴 및 문의
               </a>
             </li>
           </ul>

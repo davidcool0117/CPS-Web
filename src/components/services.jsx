@@ -5,10 +5,11 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
+          <h2>콘텐츠기획사의 역할</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            컨텐츠 기획에 있어서 고객의 비즈니스 목표를 고려하며, 세심한 조사와
+            분석을 통해 최적의 전략을 제공합니다. 궁극적인 목표는 고객의 성공을
+            돕는 탁월한 컨텐츠를 제작하는 것입니다.
           </p>
         </div>
         <div className="row">

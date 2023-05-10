@@ -6,10 +6,13 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>협회활동</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            컨텐츠기획자협회는 다양한 산업 분야에서 다양한 형태의 컨텐츠를
+            기획합니다.
+            <br />
+            이는 기사, 블로그 포스트, 동영상, 소셜 미디어 콘텐츠 등을
+            포함합니다.
           </p>
         </div>
         <div className="row">
