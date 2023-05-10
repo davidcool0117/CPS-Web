@@ -56,7 +56,7 @@ export const Navigation = (props) => {
             </li> */}
             <li>
               <a href="#team" className="page-scroll">
-                회원사 소개
+                임직원 소개
               </a>
             </li>
             <li>
