@@ -23,7 +23,7 @@ const backgroundImage = () => (
         </span>
         ”
       </p>
-      <img className="bg" src="img/carousel/bg2.jpg" alt="" />
+      <img className="bg" src="img/carousel/bg2.png" alt="" />
     </div>
     <div>
       <p className="slogan3">
@@ -34,7 +34,7 @@ const backgroundImage = () => (
         </span>
         ”
       </p>
-      <img className="bg" src="img/carousel/bg3.png" alt="" />
+      <img className="bg" src="img/carousel/bg3.jpg" alt="" />
     </div>
   </Carousel>
 );

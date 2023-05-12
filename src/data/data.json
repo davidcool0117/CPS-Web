@@ -6,61 +6,61 @@
   "About": {
     "paragraph": "콘텐츠기획자협회는 콘텐츠 분야의 기획을 위한 학술 및 콘텐츠 분야의 발전된 기획력과 창조적 기획력을 위하여 콘텐츠 분야의 산업을 국내 및 해외산업 진흥에 공헌하며, 모든 생명체에게 콘텐츠 제공을 통한 즐거움과 삶의 가치를 제공함에 목적을 둔다.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "학술과 창조성에 초점을 둔 기획",
+      "창조적 기획력",
+      "국내 및 해외산업 진흥",
+      "다양한 분야의 콘텐츠"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "국제적 네트워크",
+      "사용자 중심의 콘텐츠 제공",
+      "지속적인 역량 강화",
+      "산업 트렌드 파악과 연구"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "1",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "2",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "3",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "4",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "5",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "6",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "7",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "8",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "9",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
@@ -154,10 +154,10 @@
   "Contact": {
     "address": "26758, 765 논현로 ",
     "phone": "010 4266 2445",
-    "email": "keyong@naver.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "keyong76@naver.com",
+    "facebook": "/",
+    "twitter": "/",
+    "youtube": "/"
   },
   "Features": [
     {
